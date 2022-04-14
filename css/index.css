@@ -249,4 +249,7 @@ form button:hover {
   .container {
     padding: 50px 0;
   }
+  form{
+    padding: 50px 0;
+  }
 }
