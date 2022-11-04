@@ -407,8 +407,8 @@ body {
 .lk1,
 .lk2 {
     text-decoration: none;
-    font-family: Microsoft YaHei;
     color: #fff;
+    font-family: 'Open Sans';
     transition: all 0.5s;
 }
 .link1,
